@@ -1,0 +1,4 @@
+[build]
+  base    = "rickfell"
+  publish = "public"
+  command = "hugo"
